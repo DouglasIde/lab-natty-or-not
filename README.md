@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# NattyGen? IA Generativa: Introdução do Angular com IA Generativa
 
 ## 🚀 Introdução
 
