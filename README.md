@@ -1,14 +1,16 @@
-# NattyGen? IA Generativa: Introdução do Angular com IA Generativa
+# NattyGen? IA Generativa: Introdução do Angular com IA Generativa 
 
-## 🚀 Introdução
+<img src="https://github.com/DouglasIde/lab-natty-or-not/blob/main/exemplos/Capa.jpg" alt="Imagem de Título">
+<h1>📒 Descrição</h1>
+<p>Este e-book de 8 páginas tem como objetivo apresentar uma introdução ao framework Angular, destacando como as inteligências artificiais generativas podem impactar o desenvolvimento de aplicações. Além disso, aborda as melhores práticas para integrar o uso de IA com Angular, proporcionando uma visão estratégica e prática sobre o tema.</p>
 
-> Woooow! Look at this 👀
+<h1>🤖 Tecnologias Utilizadas</h1>
+<li><strong><a href="https://chat.openai.com/">ChatGPT</a></strong> : Geração de texto para o conteúdo do e-book e da descrição do README.</li>
+<li><strong><a href="https://gamma.app/signup?">Gamma</a></strong> : Utilizado para a elaboração do e-book.</li>
+<li><strong><a href="https://leonardo.ai/">Leonardo AI</a></strong> : Elaboração de imagens por meio de comandos de texto.</li>
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+<h1>🧐 Processo de Criação</h1>
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 1. **Potfólio de Projetos**:
